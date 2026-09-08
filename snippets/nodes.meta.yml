@@ -534,6 +534,13 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
+- name: 🇨🇦164904 | ⚡️Telegram = t.me/S...
+  password: AstroVPN_official
+  port: 36896
+  server: ptserv.accuratenetworkchecker.ir
+  sni: lms22.gelzaro.ir
+  tls: false
+  type: hysteria2
 - name: ⭐️64@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -783,7 +790,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇬🇧164720 | ⚡️Telegram = t.me/S...
+- name: ✅91@oneclickvpnkeys
   obfs: salamander
   obfs-password: 02c4876afcc37c4298f71796b09a55da
   password: ed76d01a068000d9f034144d47baf1a4
@@ -998,7 +1005,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 🇷🇴RO-🚀@VPNine1
+- name: ✅100@oneclickvpnkeys
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -1213,7 +1220,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇺🇸US-🚀@VPNine1
+- name: 4✅@oneclickvpnkeys
   password: suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g
   port: 8443
   server: 159.223.157.129
