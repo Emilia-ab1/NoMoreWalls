@@ -1,13 +1,5 @@
 proxies:
 - name: 美国
-  password: 3b8c82ed-fe66-472d-915e-034ccb57103f
-  port: 443
-  server: us.frkn.org
-  skip-cert-verify: true
-  sni: us.frkn.org
-  tls: false
-  type: hysteria2
-- name: '美国 #1'
   password: 6dcb725e-947e-4bbe-bb35-903374d57179
   port: 443
   server: rm-eco-us-01.409648.xyz
@@ -31,6 +23,16 @@ proxies:
   server: 54.213.89.22
   skip-cert-verify: true
   sni: vk.com
+  tls: false
+  type: hysteria2
+- name: 📀73@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: c8d95078e61be690c18e2fbbefe5e2ef
+  password: 975e9f98b4a1b01285ffdb8158ced798
+  port: 443
+  server: 107.172.76.105
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - alpn:
