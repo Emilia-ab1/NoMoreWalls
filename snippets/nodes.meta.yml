@@ -105,15 +105,6 @@ proxies:
   sni: se.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 🇯🇵182609 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: WduP1W9fiqZLfRA93UKXRyN83l6
-  password: 879ec4ed-139e-4204-82c4-4488aaae4699
-  port: 4712
-  server: 104.222.222.222
-  sni: domin.com
-  tls: false
-  type: hysteria2
 - name: 咕咕
   obfs: salamander
   obfs-password: CyG0RFxMjzs41uQD4OLuHQ==

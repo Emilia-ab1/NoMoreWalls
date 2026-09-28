@@ -1,13 +1,4 @@
 proxies:
-- name: 🇯🇵182609 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: WduP1W9fiqZLfRA93UKXRyN83l6
-  password: 879ec4ed-139e-4204-82c4-4488aaae4699
-  port: 4712
-  server: 104.222.222.222
-  sni: domin.com
-  tls: false
-  type: hysteria2
 - alterId: 0
   cipher: auto
   name: 日本|@ripaojiedian
