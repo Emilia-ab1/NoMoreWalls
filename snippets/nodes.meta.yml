@@ -132,6 +132,13 @@ proxies:
   sni: srv-8718e6.frd21.ru
   tls: false
   type: hysteria2
+- name: 🛩️40@oneclickvpnkeys
+  password: 082f5694-9019-4110-b67b-8125dbb9bab8
+  port: 54183
+  server: 189.74.106.162
+  sni: outh.yandex-cloud.org
+  tls: false
+  type: hysteria2
 - name: 🛩️15@oneclickvpnkeys
   password: 082f5694-9019-4110-b67b-8125dbb9bab8
   port: 54183
@@ -144,16 +151,6 @@ proxies:
   port: 54183
   server: outh.yandex-cloud.org
   sni: outh.yandex-cloud.org
-  tls: false
-  type: hysteria2
-- name: '@ange1Vpn کانال تلگرام ما'
-  obfs: salamander
-  obfs-password: 7y0p9k93w7ryw8tz
-  password: 17537e14543a478b9c7a558870d814f3
-  port: 51791
-  server: mhzedir.qzz.io
-  skip-cert-verify: false
-  sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
 - name: '@v2ray_configs_pools 🇫🇷 ⚡️'
@@ -234,16 +231,6 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
-  tls: false
-  type: hysteria2
-- name: کانال تلگرام ما ange1Vpn@
-  obfs: salamander
-  obfs-password: 7y0p9k93w7ryw8tz
-  password: 9ed56ba1c7c44bbab670d83a435591b8
-  port: 51791
-  server: mhzedir.qzz.io
-  skip-cert-verify: false
-  sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
 - name: 🫑92@oneclickvpnkeys
@@ -367,6 +354,13 @@ proxies:
   sni: hy2.561891.xyz
   tls: false
   type: hysteria2
+- name: 🛩️31@oneclickvpnkeys
+  password: e625f8ef-f935-4c7d-a259-0f154b6842fd
+  port: 443
+  server: 177.3.209.226
+  sni: hy-se.bypassme.online
+  tls: false
+  type: hysteria2
 - name: 'برای اتصال دائمی جوین شو🥏 Tele... #2'
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
@@ -385,6 +379,14 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🛩️39@oneclickvpnkeys
+  password: gf1
+  port: 443
+  server: 173.212.201.85
+  skip-cert-verify: true
+  sni: www.docker.com
   tls: false
   type: hysteria2
 - name: 🍂45@oneclickvpnkeys
