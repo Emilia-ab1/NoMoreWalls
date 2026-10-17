@@ -250,14 +250,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🇳🇱195867 | ⚡️Telegram = t.me/S...
-  password: EkF2Yw0Lc7
-  port: 443
-  server: 72.56.16.243
-  skip-cert-verify: true
-  sni: hys34.wba-pn.ru
-  tls: false
-  type: hysteria2
 - name: '@v2ray_configs_pools 🌍 ⚡️'
   password: Hc9_NX924RE_Mn948rgrwiub_m93V84nll
   port: 9443
@@ -427,13 +419,6 @@ proxies:
   port: 44100
   server: pro2.riziro.ir
   sni: pro2.riziro.ir
-  tls: false
-  type: hysteria2
-- name: 🇳🇱195869 | ⚡️Telegram = t.me/S...
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.131
-  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇳🇱
