@@ -142,6 +142,20 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
+- name: 🌍37@oneclickvpnkeys
+  password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
+  port: 443
+  server: de.northvale.cloud
+  sni: de.northvale.cloud
+  tls: false
+  type: hysteria2
+- name: 🌍42@oneclickvpnkeys
+  password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
+  port: 443
+  server: nl.northvale.cloud
+  sni: nl.northvale.cloud
+  tls: false
+  type: hysteria2
 - name: 🍎98@oneclickvpnkeys
   password: 4291c983-c520-46ac-82cc-48f14bef573f
   port: 35013
@@ -218,14 +232,6 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
-  tls: false
-  type: hysteria2
-- name: 🇳🇱196825 | ⚡️Telegram = t.me/S...
-  password: CnVfXXvMzh
-  port: 443
-  server: 72.56.92.120
-  skip-cert-verify: true
-  sni: hys13.wba-pn.ru
   tls: false
   type: hysteria2
 - name: '@v2ray_configs_pools 🌍 ⚡️'
@@ -405,7 +411,7 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 🇳🇱196824 | ⚡️Telegram = t.me/S...
+- name: '@meliproxyy'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 46.229.243.132
