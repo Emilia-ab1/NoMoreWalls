@@ -1,14 +1,4 @@
 proxies:
-- name: 🛸64@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: Telegram@vpnjey
-  password: Telegram-vpnjey
-  port: 36264
-  server: 77.110.96.201
-  skip-cert-verify: true
-  sni: se.vpnjey2.dpdns.org
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
