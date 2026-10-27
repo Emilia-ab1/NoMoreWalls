@@ -117,13 +117,6 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🇳🇱200597 | ⚡️Telegram = t.me/S...
-  password: 146d567c-6335-4e63-a8aa-7ec068642440
-  port: 4443
-  server: 13.143.232.62
-  sni: nl1.obxodvpn.us
-  tls: false
-  type: hysteria2
 - name: '@V2rayng_mar_ket'
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -192,6 +185,14 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
+  tls: false
+  type: hysteria2
+- name: 🇩🇪200800 | ⚡️Telegram = t.me/S...
+  password: 9qFAF3s4R7wkGxcI0fonColtap41RUTsWdW
+  port: 30396
+  server: 45.131.65.244
+  skip-cert-verify: false
+  sni: pisulka.jsbox.top
   tls: false
   type: hysteria2
 - alpn:
