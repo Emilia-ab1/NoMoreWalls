@@ -107,11 +107,25 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🇵🇱201942 | ⚡️Telegram = t.me/S...
+- name: 🇵🇱202164 | ⚡️Telegram = t.me/S...
   password: 10be1dad-9952-4c5e-aa30-db435f69b727
   port: 4444
-  server: 13.143.189.71
+  server: pl3.nexfile.net
   sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 🇩🇪202167 | ⚡️Telegram = t.me/S...
+  password: 23c82941-70f4-4381-90db-bd28e9a902e9
+  port: 443
+  server: 179.254.127.159
+  sni: steel7.hadsvpn.com
+  tls: false
+  type: hysteria2
+- name: 🇺🇸202161 | ⚡️Telegram = t.me/S...
+  password: 329e13e4-ee7c-4802-ac72-5fcab79c2402
+  port: 443
+  server: 217.60.72.225
+  sni: forshynewh.duckdns.org
   tls: false
   type: hysteria2
 - name: '@V2rayng_mar_ket'
@@ -290,14 +304,14 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 🇫🇷FR-🚀@VPNine1
+- name: 🇳🇱202216 | ⚡️Telegram = t.me/S...
   obfs: salamander
-  obfs-password: a56415ff1be77383
-  password: de698ab0-709d-413f-b21f-a914e5e7c603
-  port: 20230
-  server: 51.75.118.79
+  obfs-password: ypvL8T4HFIBLoH8q
+  password: capadm54312235
+  port: 443
+  server: 51.15.16.68
   skip-cert-verify: true
-  sni: www.bing.com
+  sni: vpn.local
   tls: false
   type: hysteria2
 - name: '@vmess_ir'
@@ -350,6 +364,13 @@ proxies:
   port: 44100
   server: pro2.riziro.ir
   sni: pro2.riziro.ir
+  tls: false
+  type: hysteria2
+- name: 🇳🇱202038 | ⚡️Telegram = t.me/S...
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 46.229.243.131
+  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇳🇱
