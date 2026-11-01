@@ -9,12 +9,12 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪204269 | ⚡️Telegram = t.me/S...
+- name: 🇩🇪204672 | ⚡️Telegram = t.me/S...
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 3.76.221.4
+  server: vpn-de-002.fastervpn.world
   skip-cert-verify: true
-  sni: 3.76.221.4
+  sni: vpn-de-002.fastervpn.world
   tls: false
   type: hysteria2
 - name: DE_speednode_0004
