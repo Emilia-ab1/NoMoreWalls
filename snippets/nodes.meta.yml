@@ -107,6 +107,18 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: '@FXxNET⚡️'
+  obfs: salamander
+  obfs-password: litevpn
+  password: 59018379-d5df-4314-ab23-df0e838d7953
+  port: 443
+  server: 198.13.140.193
+  skip-cert-verify: false
+  sni: efa11.lumariqis.com
+  tls: false
+  type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
   obfs: salamander
   obfs-password: dzcb7hv6i2kx2zze
@@ -127,7 +139,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 🇳🇱NL-🚀@VPNine1
+- name: 🇳🇱204271 | ⚡️Telegram = t.me/S...
   password: 6da2c981-8c77-4340-bda3-93399b7aea26
   port: 443
   server: 195.63.146.10
