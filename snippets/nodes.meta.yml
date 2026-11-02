@@ -107,6 +107,20 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  name: 🇫🇮204871 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: otwmdcyqh98idcxv
+  password: 0zy7kb86chk9ktbn
+  port: 19883
+  server: dlwww.mymuic.ir
+  skip-cert-verify: false
+  sni: dlwww.mymuic.ir
+  tls: false
+  type: hysteria2
 - name: 🎃62@oneclickvpnkeys
   password: 2a0fc918-9c61-451b-a9ad-e8f796e70f52
   port: 443
@@ -118,14 +132,6 @@ proxies:
   password: 2a0fc918-9c61-451b-a9ad-e8f796e70f52
   port: 443
   server: 45.192.12.83
-  skip-cert-verify: true
-  sni: nl1.obxodvpn.us
-  tls: false
-  type: hysteria2
-- name: 🎃12@oneclickvpnkeys
-  password: 2a0fc918-9c61-451b-a9ad-e8f796e70f52
-  port: 443
-  server: 9.247.54.69
   skip-cert-verify: true
   sni: nl1.obxodvpn.us
   tls: false
@@ -149,7 +155,7 @@ proxies:
   sni: cdn77.dmtr.ru
   tls: false
   type: hysteria2
-- name: 🇺🇸US-🚀@VPNine1
+- name: 🇺🇸204811 | ⚡️Telegram = t.me/S...
   password: 63e1b9462d708b56d5d5a0267cffecdc
   port: 443
   server: 88.216.195.188
@@ -320,6 +326,14 @@ proxies:
   port: 4444
   server: 13.143.188.142
   skip-cert-verify: false
+  sni: bl1.nexfile.net
+  tls: false
+  type: hysteria2
+- name: '@FXxNET⚡️'
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.188.143
+  skip-cert-verify: true
   sni: bl1.nexfile.net
   tls: false
   type: hysteria2
