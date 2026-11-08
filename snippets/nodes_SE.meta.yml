@@ -1,11 +1,8 @@
 proxies:
-- name: Telegram 🆔@cnetvpn 🇸🇪
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: vz86jgszv4zszchv
-  port: 52062
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
+- name: 💫42@oneclickvpnkeys
+  password: 4fa0ca1b-0742-419d-8fd2-3f698e06b206
+  port: 20444
+  server: 88.216.60.117
+  sni: hy60c117-2.w-mebel.pro
   tls: false
   type: hysteria2
