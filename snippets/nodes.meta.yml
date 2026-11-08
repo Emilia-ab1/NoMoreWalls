@@ -96,16 +96,6 @@ proxies:
   sni: fi1.obxodvpn.us
   tls: false
   type: hysteria2
-- name: '@KAFING_2'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 181.214.99.162
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
 - name: '@V2ray_confiig'
   obfs: salamander
   obfs-password: qkdqum5rllpyup7h
@@ -244,6 +234,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🇩🇪209673 | ⚡️Telegram = t.me/L...
+  password: V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8
+  port: 443
+  server: 144.31.221.57
+  skip-cert-verify: true
+  sni: player.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
 - name: 'Telegram@vpnjey #4'
   obfs: salamander
   obfs-password: Telegram@vpnjey
@@ -254,22 +252,20 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 🇳🇱 - NL - @FreeOnlineVPN
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35000
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: برای اتصال دائمی جوین شو🍥 Tele...
+- name: 🇧🇾209697 | ⚡️Telegram = t.me/L...
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.188.143
   skip-cert-verify: false
   sni: bl1.nexfile.net
+  tls: false
+  type: hysteria2
+- name: برای اتصال دائمی جوین شو🫟 Tele...
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.101
+  skip-cert-verify: false
+  sni: pl1.nexfile.net
   tls: false
   type: hysteria2
 - name: برای اتصال دائمی جوین شو☄️ Tel...
@@ -296,20 +292,22 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: '@vasl_bashim #3'
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.96
-  skip-cert-verify: false
-  sni: pl3.nexfile.net
-  tls: false
-  type: hysteria2
 - name: 🚩45@oneclickvpnkeys
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 2.27.210.6
   skip-cert-verify: true
   sni: lv2.nexfile.net
+  tls: false
+  type: hysteria2
+- name: '@KAFING_2'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 181.214.99.162
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: '@KAFING_2 #2'
@@ -348,6 +346,7 @@ proxies:
   password: h05ff7mbgbj6dhwy
   port: 2098
   server: vip.trapxan.ir
+  skip-cert-verify: false
   sni: vip.trapxan.ir
   tls: false
   type: hysteria2
@@ -411,16 +410,6 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 'channel : @Daily_Configs'
-  obfs: salamander
-  obfs-password: ckwudzzsfoltmbmi
-  password: xo43w4tc13ou2h3x
-  port: 60000
-  server: mein-1.octavia.dpdns.org
-  skip-cert-verify: false
-  sni: main-1.octavia.dpdns.org
   tls: false
   type: hysteria2
 - name: 🇹🇼 台湾｜02｜HiNet
