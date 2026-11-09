@@ -14,12 +14,12 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 💫92@oneclickvpnkeys
-  password: MZKlrFbG73bKvCDe8VPul5PR9xQm
-  port: 20999
-  server: 35.207.53.51
-  skip-cert-verify: true
-  sni: www.apple.com
+- name: 🇺🇸210637 | ⚡️Telegram = t.me/L...
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: hy2.123266.xyz
+  skip-cert-verify: false
+  sni: hy2.123266.xyz
   tls: false
   type: hysteria2
 - alpn:
