@@ -111,6 +111,13 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🇩🇪216664 | ⚡️Telegram = t.me/L...
+  password: 833539ec-fbba-40e8-ba6c-ac31bf6b3b4c
+  port: 443
+  server: 144.31.168.201
+  sni: fastconv-mirror.ru
+  tls: false
+  type: hysteria2
 - name: 🇱🇹 15@exclavevpn
   password: b36a14f8-fc3f-4142-968f-48031cf5f330
   port: 25318
@@ -150,11 +157,25 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 🇩🇪216655 | ⚡️Telegram = t.me/L...
+  password: e45c1654-9184-40c7-b68b-2929ce2a0a89
+  port: 443
+  server: 86.107.179.245
+  sni: cruises-cdn.travel-blogmir.blog
+  tls: false
+  type: hysteria2
 - name: ' 🙏104@oneclickvpnkeys'
   password: lCk4_xMXmmLQV45zGLuQ5BRmzKEHDU8Q
   port: 443
   server: 81.90.17.166
   sni: assets.stackbase-dev.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪216653 | ⚡️Telegram = t.me/L...
+  password: lvu_1f46c9c7e44bef3f9974936d87ee4f44_1f900674c11bcad65b09ef1f77502ea5
+  port: 443
+  server: 212.102.227.131
+  sni: n34.neproxy.net
   tls: false
   type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
@@ -194,14 +215,6 @@ proxies:
   server: steel7.hadsvpn.com
   skip-cert-verify: false
   sni: steel7.hadsvpn.com
-  tls: false
-  type: hysteria2
-- name: 🇯🇵JP-🚀@VPNine1
-  password: 3OAaD9HeUplLnOOA0StMZG
-  port: 443
-  server: 43.239.249.178
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - fingerprint: chrome
@@ -368,13 +381,6 @@ proxies:
   sni: lv2.nexfile.net
   tls: false
   type: hysteria2
-- name: 🙏15@oneclickvpnkeys
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 48.102.214.167
-  sni: fl5.edgeport.cloud
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -395,7 +401,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇹🇷216527 | ⚡️Telegram = t.me/L...
+- name: telegram:@pirozi_ArGaP
   obfs: salamander
   obfs-password: km9oqmefh2km1i5n
   password: d1gkicdgem3bsoaa

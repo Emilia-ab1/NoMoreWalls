@@ -1,12 +1,4 @@
 proxies:
-- name: 🇯🇵JP-🚀@VPNine1
-  password: 3OAaD9HeUplLnOOA0StMZG
-  port: 443
-  server: 43.239.249.178
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   name: 🇯🇵 日本|@ripaojiedian
   network: ws
