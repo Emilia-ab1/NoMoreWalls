@@ -1,1 +1,9 @@
-proxies: []
+proxies:
+- name: 🇭🇰217666 | ⚡️Telegram = t.me/L...
+  password: VR7zICGZd3cB34G0FxSYQra3
+  port: 10086
+  server: 82.152.161.146
+  skip-cert-verify: false
+  sni: pic.bstarstatic.com
+  tls: false
+  type: hysteria2
