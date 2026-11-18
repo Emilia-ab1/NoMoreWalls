@@ -103,14 +103,6 @@ proxies:
   sni: 775c8bt.lt4.h1clayd.click
   tls: false
   type: hysteria2
-- name: 🇸🇬217844 | ⚡️Telegram = t.me/L...
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 47.129.241.99
-  skip-cert-verify: true
-  sni: 127.0.0.1
-  tls: false
-  type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -204,44 +196,16 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 🇺🇸217847 | ⚡️Telegram = t.me/L...
-  password: 9263c76e
-  port: 4942
-  server: 37.123.193.151
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
-  fingerprint: chrome
-  name: 🇮🇷217733 | ⚡️Telegram = t.me/L...
+  name: ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🩹
   obfs: salamander
   obfs-password: 7wjvepshx5g115x4
   password: 99a271e85dbc4aa8950f9c7beee06b19
   port: 30746
   server: ide.vipvirtualnet.eu
+  skip-cert-verify: false
   sni: del.vipvirtualnet.eu
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇮🇷217735 | ⚡️Telegram = t.me/L...
-  obfs: salamander
-  obfs-password: sg4vykhxd2pzk94n
-  password: 99a271e85dbc4aa8950f9c7beee06b19
-  port: 15066
-  server: tgame.vipvirtualnet.eu
-  sni: hxo.vipvirtualnet.eu
-  tls: false
-  type: hysteria2
-- name: 🇺🇸217843 | ⚡️Telegram = t.me/L...
-  password: AIcYjw5Oc9Rrrr9SGDUBbBIC
-  port: 36712
-  server: 38.76.150.108
-  skip-cert-verify: true
-  sni: 38.76.150.108
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -312,14 +276,6 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 🇭🇰217666 | ⚡️Telegram = t.me/L...
-  password: VR7zICGZd3cB34G0FxSYQra3
-  port: 10086
-  server: 82.152.161.146
-  skip-cert-verify: false
-  sni: pic.bstarstatic.com
-  tls: false
-  type: hysteria2
 - name: '@OutlineReleasedKey #7'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
@@ -371,6 +327,13 @@ proxies:
   port: 443
   server: 50.7.38.243
   sni: promo.betust.net
+  tls: false
+  type: hysteria2
+- name: ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🍼
+  password: dongtaiwang.com
+  port: 22000
+  server: 62.210.124.146
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - name: '@Nexus_Panell چنل تلگرام #1'
